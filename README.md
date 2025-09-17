@@ -28,3 +28,7 @@ You can also use the included test client (test_client.go) to run multiple nodes
 ## Status
 
 The project is open-source and available for extension. Contributions, forks, and pull requests are welcome.
+
+## Tags
+
+#GO #crypto #blockchain #Bitcoin #research
