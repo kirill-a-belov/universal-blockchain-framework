@@ -19,7 +19,7 @@ The project is designed for prototyping, research, and education in distributed 
 Clone the repository and run the server:
 
 ```bash
-git clone https://github.com/kirill-a-belov/universal-blockchain-framework/universal-blockchain-framework.git
+git clone https://github.com/kirill-a-belov/universal-blockchain-framework.git
 cd universal-blockchain-framework
 go run main.go
 ```
